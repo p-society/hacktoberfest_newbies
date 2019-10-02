@@ -34,9 +34,9 @@ Venue : AG02, International Institute of Information Technology, Bhubaneswar
 ### Refreshments
 Beverages will be served.
 ### Other fun ideas
-- First pull request of the evening to receive [schwag/stickers].
+- First pull request of the evening to receive **[schwag/stickers]**.
 - Raffle off 3-5 prizes to be given away at the end of the evening.
-- Wrap up the event by inviting participants to share what they learned/worked on[feedback-form].
+- Wrap up the event by inviting participants to share what they learned/worked on **[feedback-form]**.
 ### Event code of conduct
 Hacktoberfest events are welcoming, open, and inclusive. Please read our Events Code of Conduct before attending. 
 
