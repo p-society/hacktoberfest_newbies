@@ -1,6 +1,6 @@
 # hacktoberfest_newbies
 
-## Hactoberfest(October 1 to October 31, 2019)
+## Hacktoberfest(October 1 to October 31, 2019)
 ### About
 - Hacktoberfest is open to everyone in our global community. 
 - Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community.
@@ -19,7 +19,7 @@
 - [Issuehub.io](http://issuehub.io/)
 - [First Timers Only](https://www.firsttimersonly.com/)
 - [Awesome for beginners](https://github.com/mungell/awesome-for-beginners)
-4) Hactoberfest and digitalocean have curated a list of [valuable resources](https://hacktoberfest.digitalocean.com/eventkit#resources).
+4) Hacktoberfest and digitalocean have curated a list of [valuable resources](https://hacktoberfest.digitalocean.com/eventkit#resources).
 ### Scheduled dates(tentatively), time and venue
 
 Dates : 16-17th October, 2019
