@@ -1,5 +1,5 @@
 # hacktoberfest_newbies
-# hacktoberfest_newbies
+
 ## Hactoberfest(October 1 to October 31, 2019)
 ### About
 - Hacktoberfest is open to everyone in our global community. 
