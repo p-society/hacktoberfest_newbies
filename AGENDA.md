@@ -2,7 +2,7 @@
 
 ## Introduction(40 mins)
 - What is open-source? Why open-source?  
-- What is Git and GitHub? Explaination about other cloud based Git services.
+- What is Git and GitHub? Explanation about other cloud based Git services.
 - What are open-source programs? Familiarize them with the list of summer/winter, paid/unpaid [open-source programs](https://github.com/tapaswenipathak/Open-Source-Programs)
 - Talk on Hacktoberfest.
   - What is hacktoberfest? 
