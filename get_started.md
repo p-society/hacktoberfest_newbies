@@ -11,6 +11,8 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
 
+
+
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
@@ -120,4 +122,4 @@ Now let's get you started with contributing to other projects. We've compiled a 
 |---|---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|
 
-This is inspired from [Roshan Jossey](https://github.com/firstcontributions/first-contributions)
+## This is inspired from [Roshan Jossey](https://github.com/firstcontributions/first-contributions)
