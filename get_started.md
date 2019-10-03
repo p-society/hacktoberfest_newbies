@@ -6,7 +6,7 @@
  Everything is daunting at first, but we have made it easy for you.
 
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="assets.zip/assets/fork.png" alt="fork this repository" />
 
 If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -17,7 +17,7 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="assets.zip/assets/clone.png" alt="clone this repository" />
 
 Now clone this repo to your machine. Click on the clone button and then click the *copy to clipboard* icon.
 
@@ -28,7 +28,7 @@ git clone "url you just copied"
 ```
 where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="assets.zip/assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 For example:
 ```
@@ -79,11 +79,11 @@ replacing `<add-your-name>` with the name of the branch you created earlier.
 
 If you go to your repository on GitHub, you'll see a  `Compare & pull request` button.  Click on that button.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="assets.zip/assets/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="assets.zip/assets/submit-pull.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
