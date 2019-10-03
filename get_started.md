@@ -6,7 +6,6 @@
 ## Get Started
  Everything is daunting at first, but we have made it easy for you.
 
-#### *Read this in [other languages](LANGUAGES.md)* 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
