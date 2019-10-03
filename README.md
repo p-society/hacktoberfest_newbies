@@ -22,15 +22,15 @@
 4) Hacktoberfest and digitalocean have curated a list of [valuable resources](https://hacktoberfest.digitalocean.com/eventkit#resources).
 ### Scheduled dates(tentatively), time and venue
 
-Dates : 16-17th October, 2019
+Dates : 16th October, 2019
 
-Time : 5.30pm-8pm
+Time : 5.30pm-8.30pm
 
 Venue : AG02, International Institute of Information Technology, Bhubaneswar
 
 ### Speakers
 - Introduction and get started by **Nabanita Dash**
-- GSoCers'2018 and 2019- **Swaraj Hota(ffmpeg-19)**, **Aditya Samantray(R-project-19)**, etc.
+- GSoC qualifiers'2018 and 2019- **Swaraj Hota(ffmpeg-19)**, **Aditya Samantray(R-project-19)**, etc.
 ### Refreshments
 Beverages will be served.
 ### Other fun ideas
